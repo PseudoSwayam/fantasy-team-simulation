@@ -137,8 +137,8 @@ streamlit run main.py
 ## 💬 Contact
 
 Made by Swayam Sahoo
-LinkedIn: [linkedin.com/in/swayamsahoo11](https://linkedin.com/in/swayamsahoo11)
-Portfolio: [swayamsahoo.netlify.app](https://swayamsahoo.netlify.app)
-Email: [swayampr.sahoo@email.com](mailto:swayampr.sahoo@email.com)
+* LinkedIn: [linkedin.com/in/swayamsahoo11](https://linkedin.com/in/swayamsahoo11)
+* Portfolio: [swayamsahoo.netlify.app](https://swayamsahoo.netlify.app)
+* Email: [swayampr.sahoo@email.com](mailto:swayampr.sahoo@email.com)
 
 
